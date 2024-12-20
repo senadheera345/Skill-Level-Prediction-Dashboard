@@ -1,4 +1,4 @@
-LineaFlex: Integrated Sewing Employees Monitoring System
+![6 1](https://github.com/user-attachments/assets/a73a04a4-16a6-4eb4-ac15-7b7cea14cd87)
 LineaFlex is an innovative solution developed to modernize and enhance the assessment of sewing skills in the apparel industry. This research-driven system streamlines the skill evaluation process by integrating demographic data and hand motion data to predict skill levels and assign proper grades.
 
 Key Features
